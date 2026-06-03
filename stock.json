@@ -1,0 +1,1494 @@
+[
+  {
+    "id": "jean-ancla",
+    "nombre": "Jean Ancla",
+    "cartNombre": "Jean Ancla",
+    "precio": 42500,
+    "categoria": "pantalon",
+    "imagenes": [
+      "imagenes/JEAN-ancla-ADELANTE.webp",
+      "imagenes/JEAN-ancla-ATRAS.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "jean-f1",
+    "nombre": "Jean F1",
+    "cartNombre": "Jean F1",
+    "precio": 44000,
+    "categoria": "pantalon",
+    "imagenes": [
+      "imagenes/JEAN-f1-ADELANTE.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "jean-laos-love-hater",
+    "nombre": "Jean Laos / Love Hater",
+    "cartNombre": "Jean Laos",
+    "precio": 43000,
+    "categoria": "pantalon",
+    "imagenes": [
+      "imagenes/JEAN-laos-ADELANTE.webp",
+      "imagenes/JEAN-LOVE-HATER-ATRAS.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "jean-max",
+    "nombre": "Jean Max",
+    "cartNombre": "Jean Max",
+    "precio": 45000,
+    "categoria": "pantalon",
+    "imagenes": [
+      "imagenes/JEAN-MAX-ADELANTE.webp",
+      "imagenes/JEAN-MAX-ATRAS.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "jean-red",
+    "nombre": "Jean Red",
+    "cartNombre": "Jean Red",
+    "precio": 43500,
+    "categoria": "pantalon",
+    "imagenes": [
+      "imagenes/JEAN-RED-ADELANTE.webp",
+      "imagenes/JEAN-RED-ATRAS.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "jean-rei",
+    "nombre": "Jean Rei",
+    "cartNombre": "Jean Rei",
+    "precio": 44500,
+    "categoria": "pantalon",
+    "imagenes": [
+      "imagenes/JEAN-REI-ADELANTE.webp",
+      "imagenes/JEAN-REI-ATRAS.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "jean-skull",
+    "nombre": "Jean Skull",
+    "cartNombre": "Jean Skull",
+    "precio": 46000,
+    "categoria": "pantalon",
+    "imagenes": [
+      "imagenes/JEAN-SKULL-ADELANTE.webp",
+      "imagenes/JEAN-SKULL-ATRAS.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "jean-star",
+    "nombre": "Jean Star",
+    "cartNombre": "Jean Star",
+    "precio": 44000,
+    "categoria": "pantalon",
+    "imagenes": [
+      "imagenes/JEAN-STAR-ADELANTE.webp",
+      "imagenes/JEAN-STAR-ATRAS.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "jean-vinni",
+    "nombre": "Jean Vinni",
+    "cartNombre": "Jean Vinni",
+    "precio": 47000,
+    "categoria": "pantalon",
+    "imagenes": [
+      "imagenes/JEAN-VINNI-ADELANTE.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "jean-white-blanco",
+    "nombre": "Jean White",
+    "cartNombre": "Jean White",
+    "precio": 42000,
+    "categoria": "pantalon",
+    "imagenes": [
+      "imagenes/JEAN-WHITE-ADELANTE.webp",
+      "imagenes/JEAN-WHITE-ATRAS.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "jogger-adidas-pantalon",
+    "nombre": "Jogger Adidas",
+    "cartNombre": "Jogger Adidas",
+    "precio": 38000,
+    "categoria": "pantalon",
+    "imagenes": [
+      "imagenes/JOGGER-ADD-ADELANTE.webp",
+      "imagenes/JOGGER-ADD-ATRAS.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "river-pantalon-negro",
+    "nombre": "River Pantalón (Negro)",
+    "cartNombre": "River Pantalon Negro",
+    "precio": 35000,
+    "categoria": "pantalon",
+    "imagenes": [
+      "imagenes/RIVER-PAN-NE-1.webp",
+      "imagenes/RIVER-PAN-NE-2.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "hoodie-balance-negro",
+    "nombre": "Hoodie Balance (Negro)",
+    "cartNombre": "Hoodie Balance Negro",
+    "precio": 52000,
+    "categoria": "buzo",
+    "imagenes": [
+      "imagenes/hoodie-balance-negro-adelante.webp",
+      "imagenes/hoodie-balance-negro-atras.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "hoodie-ben-negro",
+    "nombre": "Hoodie BEN (Negro)",
+    "cartNombre": "Hoodie BEN Negro",
+    "precio": 54000,
+    "categoria": "buzo",
+    "imagenes": [
+      "imagenes/hoodie-BEN-negro-adelante.webp",
+      "imagenes/hoodie-BEN-negro-atras.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "zip-hoodie-aragon-campera",
+    "nombre": "Zip Hoodie Aragón",
+    "cartNombre": "Zip Hoodie Aragon",
+    "precio": 58000,
+    "categoria": "buzo",
+    "imagenes": [
+      "imagenes/ZIP-HOODIE-ARAGON-ADELANTE.webp",
+      "imagenes/ZIP-HOODIE-ARAGON-ATRAS.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "zip-hoodie-champ-campera",
+    "nombre": "Zip Hoodie Champ",
+    "cartNombre": "Zip Hoodie Champ",
+    "precio": 56000,
+    "categoria": "buzo",
+    "imagenes": [
+      "imagenes/ZIP-HOODIE-champ-ADELANTE.webp",
+      "imagenes/ZIP-HOODIE-champ-atras.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "zip-hoodie-west-campera",
+    "nombre": "Zip Hoodie West",
+    "cartNombre": "Zip Hoodie West",
+    "precio": 58000,
+    "categoria": "buzo",
+    "imagenes": [
+      "imagenes/ZIP-HOODIE-WEST-ADELANTE.webp",
+      "imagenes/ZIP-HOODIE-WEST-ATRAS.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "sweater-lemans-gris",
+    "nombre": "Sweater LeMans (Gris)",
+    "cartNombre": "Sweater LeMans Gris",
+    "precio": 49000,
+    "categoria": "buzo",
+    "imagenes": [
+      "imagenes/SWEATER-LEMANS-GRIS-ST.webp",
+      "imagenes/SWEATER-LEMANS-GRIS-ATRAS.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "sweater-pin-negro",
+    "nombre": "Sweater Pin (Negro)",
+    "cartNombre": "Sweater Pin Negro",
+    "precio": 48000,
+    "categoria": "buzo",
+    "imagenes": [
+      "imagenes/SWEATER-PIN-NEGRO-ADELANTE.webp",
+      "imagenes/SWEATER-PIN-NEGRO-ATRAS.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "remera-japon-azul-japonesa",
+    "nombre": "Remera Japón (Azul)",
+    "cartNombre": "Remera Japon Azul",
+    "precio": 28000,
+    "categoria": "remera",
+    "imagenes": [
+      "imagenes/JAPON-AZ-1-1.webp",
+      "imagenes/JAPON-AZ-2-1.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "remera-lineas-negro",
+    "nombre": "Remera Líneas (Negro)",
+    "cartNombre": "Remera Lineas Negro",
+    "precio": 27000,
+    "categoria": "remera",
+    "imagenes": [
+      "imagenes/LINEAS-NE-1.webp",
+      "imagenes/LINEAS-NE-2.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "river-camiseta-negro",
+    "nombre": "River Camiseta (Negro)",
+    "cartNombre": "River Camiseta Negro",
+    "precio": 32000,
+    "categoria": "remera",
+    "imagenes": [
+      "imagenes/RIVER-CAM-NE-1.webp",
+      "imagenes/RIVER-CAM-NE-2.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "remera-wttr-azul",
+    "nombre": "Remera WTTR (Azul)",
+    "cartNombre": "Remera WTTR Azul",
+    "precio": 28500,
+    "categoria": "remera",
+    "imagenes": [
+      "imagenes/WTTR-AZ-3.webp",
+      "imagenes/WTTR-AZ-4.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "remera-race",
+    "nombre": "Remera Race",
+    "cartNombre": "Remera Race",
+    "precio": 26000,
+    "categoria": "remera",
+    "imagenes": [
+      "imagenes/RACE-1.webp",
+      "imagenes/RACE-4.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "remera-star",
+    "nombre": "Remera Star",
+    "cartNombre": "Remera Star",
+    "precio": 26000,
+    "categoria": "remera",
+    "imagenes": [
+      "imagenes/STAR-1.webp",
+      "imagenes/STAR-4.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "remera-stll",
+    "nombre": "Remera Stll",
+    "cartNombre": "Remera Stll",
+    "precio": 0,
+    "categoria": "remera",
+    "imagenes": [
+      "imagenes/STLL-1.webp",
+      "imagenes/STLL-4.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "remera-malb",
+    "nombre": "Remera Malb",
+    "cartNombre": "Remera Malb",
+    "precio": 26000,
+    "categoria": "remera",
+    "imagenes": [
+      "imagenes/MALB-2.webp",
+      "imagenes/MALB-4.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "remera-nof",
+    "nombre": "Remera Nof",
+    "cartNombre": "Remera Nof",
+    "precio": 26000,
+    "categoria": "remera",
+    "imagenes": [
+      "imagenes/NOF-1.webp",
+      "imagenes/NOF-2.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "remera-tactica-negro",
+    "nombre": "Remera Táctica (Negro)",
+    "cartNombre": "Remera Tactica Negro",
+    "precio": 27500,
+    "categoria": "remera",
+    "imagenes": [
+      "imagenes/TACTICA-NE-1.webp",
+      "imagenes/TACTICA-NE-2.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "remera-tron",
+    "nombre": "Remera Tron",
+    "cartNombre": "Remera Tron",
+    "precio": 29000,
+    "categoria": "remera",
+    "imagenes": [
+      "imagenes/TRON-N-1.webp",
+      "imagenes/TRON-N-2.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "remera-jh",
+    "nombre": "Remera JH",
+    "cartNombre": "Remera JH",
+    "precio": 25000,
+    "categoria": "remera",
+    "imagenes": [
+      "imagenes/JH-2.webp",
+      "imagenes/JH-6.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "remera-jho",
+    "nombre": "Remera JHO",
+    "cartNombre": "Remera JHO",
+    "precio": 25000,
+    "categoria": "remera",
+    "imagenes": [
+      "imagenes/JHO-2.webp",
+      "imagenes/JHO-3.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "remera-s",
+    "nombre": "Remera S",
+    "cartNombre": "Remera S",
+    "precio": 24000,
+    "categoria": "remera",
+    "imagenes": [
+      "imagenes/S3.webp",
+      "imagenes/S4.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "remera-rock",
+    "nombre": "Remera Rock",
+    "cartNombre": "Remera Rock",
+    "precio": 27000,
+    "categoria": "remera",
+    "imagenes": [
+      ""
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "look-modelo-editorial",
+    "nombre": "Look Modelo 1",
+    "cartNombre": "Look Modelo 1",
+    "precio": 95000,
+    "categoria": "remera",
+    "imagenes": [
+      "imagenes/DSC0006.webp",
+      "imagenes/DSC0021.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "look-modelo-editorial-buzo",
+    "nombre": "Look Modelo 2",
+    "cartNombre": "Look Modelo 2",
+    "precio": 92000,
+    "categoria": "buzo",
+    "imagenes": [
+      "imagenes/DSC0220-2.webp",
+      "imagenes/DSC0232-2.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "look-modelo-editorial-pantalon",
+    "nombre": "Look Modelo 3",
+    "cartNombre": "Look Modelo 3",
+    "precio": 98000,
+    "categoria": "pantalon",
+    "imagenes": [
+      "imagenes/DSC0262-2.webp",
+      "imagenes/DSC0273-2.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "look-editorial-4",
+    "nombre": "Look Modelo 4",
+    "cartNombre": "Look Modelo 4",
+    "precio": 90000,
+    "categoria": "remera",
+    "imagenes": [
+      "imagenes/dree-editdas_0078_IMG_1695-2.webp",
+      "imagenes/dree-editdas_0079_IMG_1698.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "look-editorial-5",
+    "nombre": "Look Modelo 5",
+    "cartNombre": "Look Modelo 5",
+    "precio": 96000,
+    "categoria": "remera",
+    "imagenes": [
+      "imagenes/dree-editdas_0081_IMG_1706.webp",
+      "imagenes/dree-editdas_0082_IMG_1711.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "look-editorial-6",
+    "nombre": "Look Modelo 6",
+    "cartNombre": "Look Modelo 6",
+    "precio": 94000,
+    "categoria": "remera",
+    "imagenes": [
+      "imagenes/dree-editdas_0083_IMG_1719.webp",
+      "imagenes/dree-editdas_0084_IMG_1725.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "look-editorial-7",
+    "nombre": "Look Modelo 7",
+    "cartNombre": "Look Modelo 7",
+    "precio": 99000,
+    "categoria": "remera",
+    "imagenes": [
+      "imagenes/segunda-parte-fotos_0070_IMG_2038.webp",
+      "imagenes/segunda-parte-fotos_0071_IMG_2034.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "look-editorial-8",
+    "nombre": "Look Modelo 8",
+    "cartNombre": "Look Modelo 8",
+    "precio": 91000,
+    "categoria": "remera",
+    "imagenes": [
+      "imagenes/segunda-parte-fotos_0080_IMG_2004.webp",
+      "imagenes/segunda-parte-fotos_0081_IMG_1997.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "look-editorial-1",
+    "nombre": "Look Editorial 1",
+    "cartNombre": "Look Editorial 1",
+    "precio": 105000,
+    "categoria": "remera",
+    "imagenes": [
+      ""
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "look-editorial-2-buzo",
+    "nombre": "Look Editorial 2",
+    "cartNombre": "Look Editorial 2",
+    "precio": 108000,
+    "categoria": "buzo",
+    "imagenes": [
+      "imagenes/dree-editdas_0058_IMG_1431.webp",
+      "imagenes/dree-editdas_0059_IMG_1443.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "look-editorial-3",
+    "nombre": "Look Editorial 3",
+    "cartNombre": "Look Editorial 3",
+    "precio": 110000,
+    "categoria": "remera",
+    "imagenes": [
+      ""
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "fast---hoodie-rustico",
+    "nombre": "Fast - Hoodie Rustico",
+    "cartNombre": "Fast - Hoodie Rustico",
+    "precio": 49000,
+    "categoria": "buzo",
+    "imagenes": [
+      "https://dcdn-us.mitiendanube.com/stores/007/229/147/products/imagen_2026-05-30_163420720-cdcdcf433b695837a017801696661031-1024-1024.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "pin---sweater",
+    "nombre": "Pin - Sweater",
+    "cartNombre": "Pin - Sweater",
+    "precio": 42000,
+    "categoria": "buzo",
+    "imagenes": [
+      "https://dcdn-us.mitiendanube.com/stores/007/229/147/products/imagen_2026-05-30_163054348-725fd8f056cf1ec9a917801694608020-1024-1024.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "le-mans---sweater",
+    "nombre": "Le Mans - Sweater",
+    "cartNombre": "Le Mans - Sweater",
+    "precio": 42000,
+    "categoria": "buzo",
+    "imagenes": [
+      "https://dcdn-us.mitiendanube.com/stores/007/229/147/products/imagen_2026-05-30_162743542-aeec2cdfd178b9378f17801692694481-1024-1024.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "wli-6-1--track-jacket-river",
+    "nombre": "Wli-6-1- Track Jacket River",
+    "cartNombre": "Wli-6-1- Track Jacket River",
+    "precio": 86800,
+    "categoria": "buzo",
+    "imagenes": [
+      "https://dcdn-us.mitiendanube.com/stores/007/229/147/products/imagen_2026-05-30_162433807-63e39a0686a451a62f17801690794890-1024-1024.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "wli-3-a--japan-snow",
+    "nombre": "Wli-3-A- Japan Snow",
+    "cartNombre": "Wli-3-A- Japan Snow",
+    "precio": 105000,
+    "categoria": "buzo",
+    "imagenes": [
+      "https://dcdn-us.mitiendanube.com/stores/007/229/147/products/imagen_2026-05-30_161809054-313b2bd19b5a79823c17801686950777-1024-1024.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "wli-3-b--japan-black",
+    "nombre": "Wli-3-B- Japan Black",
+    "cartNombre": "Wli-3-B- Japan Black",
+    "precio": 105000,
+    "categoria": "buzo",
+    "imagenes": [
+      "https://dcdn-us.mitiendanube.com/stores/007/229/147/products/imagen_2026-05-30_112434870-ef89b39812fbdedb1d17801510808502-1024-1024.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "wli-7-1--track-jacket-gang",
+    "nombre": "Wli-7-1- Track Jacket Gang",
+    "cartNombre": "Wli-7-1- Track Jacket Gang",
+    "precio": 70000,
+    "categoria": "buzo",
+    "imagenes": [
+      "https://dcdn-us.mitiendanube.com/stores/007/229/147/products/imagen_2026-05-30_112043777-48460d7e11e7fef8eb17801508490397-1024-1024.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "wli-5-1--track-jacket-basic",
+    "nombre": "Wli-5-1- Track Jacket Basic",
+    "cartNombre": "Wli-5-1- Track Jacket Basic",
+    "precio": 77000,
+    "categoria": "buzo",
+    "imagenes": [
+      "https://dcdn-us.mitiendanube.com/stores/007/229/147/products/imagen_2026-05-30_111338357-6f1da40ebe54f88b2d17801504243062-1024-1024.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "wli-4--racer",
+    "nombre": "Wli-4- Racer",
+    "cartNombre": "Wli-4- Racer",
+    "precio": 80500,
+    "categoria": "buzo",
+    "imagenes": [
+      "https://dcdn-us.mitiendanube.com/stores/007/229/147/products/imagen_2026-05-30_110656464-69000329989e4e0e0417801500224686-1024-1024.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "wli-2-tron-jacket",
+    "nombre": "Wli-2-Tron Jacket",
+    "cartNombre": "Wli-2-Tron Jacket",
+    "precio": 91000,
+    "categoria": "buzo",
+    "imagenes": [
+      "https://dcdn-us.mitiendanube.com/stores/007/229/147/products/imagen_2026-05-30_110317817-55ea576fe3a57e63da17801498037952-1024-1024.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "wli-9--tactical",
+    "nombre": "Wli-9- Tactical",
+    "cartNombre": "Wli-9- Tactical",
+    "precio": 91000,
+    "categoria": "buzo",
+    "imagenes": [
+      "https://dcdn-us.mitiendanube.com/stores/007/229/147/products/imagen_2026-05-30_105957503-3cdbd1f216e90a476d17801496033803-1024-1024.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "star---campera-gabardina-bordada",
+    "nombre": "Star - Campera Gabardina Bordada",
+    "cartNombre": "Star - Campera Gabardina Bordada",
+    "precio": 79800,
+    "categoria": "buzo",
+    "imagenes": [
+      "https://dcdn-us.mitiendanube.com/stores/007/229/147/products/imagen_2026-05-30_105407516-3774b5b24ccaf7105a17801492542654-1024-1024.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "malb---campera-gabardina-bordada",
+    "nombre": "Malb - Campera Gabardina Bordada",
+    "cartNombre": "Malb - Campera Gabardina Bordada",
+    "precio": 77000,
+    "categoria": "buzo",
+    "imagenes": [
+      "https://dcdn-us.mitiendanube.com/stores/007/229/147/products/imagen_2026-05-30_104858746-a443209b54586777dc17801489459600-1024-1024.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "wli-6-2--track-pants-river",
+    "nombre": "Wli-6-2- Track Pants River",
+    "cartNombre": "Wli-6-2- Track Pants River",
+    "precio": 63000,
+    "categoria": "pantalon",
+    "imagenes": [
+      "https://dcdn-us.mitiendanube.com/stores/007/229/147/products/imagen_2026-05-30_162050787-e27e247de867019f3617801688601345-1024-1024.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "wli-7-2--track-pants-gang",
+    "nombre": "Wli-7-2- Track Pants Gang",
+    "cartNombre": "Wli-7-2- Track Pants Gang",
+    "precio": 56000,
+    "categoria": "pantalon",
+    "imagenes": [
+      "https://dcdn-us.mitiendanube.com/stores/007/229/147/products/imagen_2026-05-30_111718616-5df8a1c046f2042d6817801506450900-1024-1024.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "kain-clasico-20---jean-baggy",
+    "nombre": "Kain Clasico 2.0 - Jean Baggy",
+    "cartNombre": "Kain Clasico 2.0 - Jean Baggy",
+    "precio": 49600,
+    "categoria": "pantalon",
+    "imagenes": [
+      "https://dcdn-us.mitiendanube.com/stores/007/229/147/products/imagen_2026-05-29_223025392-c0275577fb291d396e17801046326377-1024-1024.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "japon-onix---jean-cargo-carpintero",
+    "nombre": "Japon Onix - Jean Cargo Carpintero",
+    "cartNombre": "Japon Onix - Jean Cargo Carpintero",
+    "precio": 46000,
+    "categoria": "pantalon",
+    "imagenes": [
+      "https://dcdn-us.mitiendanube.com/stores/007/229/147/products/imagen_2026-05-29_222735108-5b71053464cc452d3c17801044614999-1024-1024.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "out-20---jean-baggy-con-bordado",
+    "nombre": "Out 2.0 - Jean Baggy Con Bordado",
+    "cartNombre": "Out 2.0 - Jean Baggy Con Bordado",
+    "precio": 53600,
+    "categoria": "pantalon",
+    "imagenes": [
+      "https://dcdn-us.mitiendanube.com/stores/007/229/147/products/imagen_2026-05-29_222550383-77581064c16e77140217801043549064-1024-1024.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "dree-dark---jean-baggy",
+    "nombre": "Dree Dark - Jean Baggy",
+    "cartNombre": "Dree Dark - Jean Baggy",
+    "precio": 53000,
+    "categoria": "pantalon",
+    "imagenes": [
+      "https://dcdn-us.mitiendanube.com/stores/007/229/147/products/imagen_2026-05-29_222426650-c566bd542c26d13e4b17801042710952-1024-1024.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "kain-stone---baggy",
+    "nombre": "Kain Stone - Baggy",
+    "cartNombre": "Kain Stone - Baggy",
+    "precio": 50000,
+    "categoria": "pantalon",
+    "imagenes": [
+      "https://dcdn-us.mitiendanube.com/stores/007/229/147/products/imagen_2026-05-29_222248666-89e569bf12e641dc4317801041733989-1024-1024.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "ghost---baggy-jean",
+    "nombre": "Ghost - Baggy Jean",
+    "cartNombre": "Ghost - Baggy Jean",
+    "precio": 50000,
+    "categoria": "pantalon",
+    "imagenes": [
+      "https://dcdn-us.mitiendanube.com/stores/007/229/147/products/imagen_2026-05-29_222107202-ee06f5fc1ae6aeefd717801040722854-1024-1024.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "llamas---baggy-jean",
+    "nombre": "Llamas - Baggy Jean",
+    "cartNombre": "Llamas - Baggy Jean",
+    "precio": 52700,
+    "categoria": "pantalon",
+    "imagenes": [
+      "https://dcdn-us.mitiendanube.com/stores/007/229/147/products/imagen_2026-05-29_221853527-2b7a5ed70ae7c982f917801039392379-1024-1024.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "lemus---jean-bagy-bordado",
+    "nombre": "Lemus - Jean Bagy Bordado",
+    "cartNombre": "Lemus - Jean Bagy Bordado",
+    "precio": 52000,
+    "categoria": "pantalon",
+    "imagenes": [
+      "https://dcdn-us.mitiendanube.com/stores/007/229/147/products/imagen_2026-05-29_221605653-f3a021260273ab2da717801037699741-1024-1024.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "roach-20---skate-baggy",
+    "nombre": "Roach 2.0 - Skate Baggy",
+    "cartNombre": "Roach 2.0 - Skate Baggy",
+    "precio": 47500,
+    "categoria": "pantalon",
+    "imagenes": [
+      "https://dcdn-us.mitiendanube.com/stores/007/229/147/products/imagen_2026-05-29_221338664-a011c5984b29ba46a517801036239497-1024-1024.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "skull-20---jean-baggy-bordado",
+    "nombre": "Skull 2.0 - Jean Baggy Bordado",
+    "cartNombre": "Skull 2.0 - Jean Baggy Bordado",
+    "precio": 57000,
+    "categoria": "pantalon",
+    "imagenes": [
+      "https://dcdn-us.mitiendanube.com/stores/007/229/147/products/imagen_2026-05-29_221145047-f7bf14b8cbaf4c618317801035095522-1024-1024.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "star---jean",
+    "nombre": "Star - Jean",
+    "cartNombre": "Star - Jean",
+    "precio": 52000,
+    "categoria": "pantalon",
+    "imagenes": [
+      "https://dcdn-us.mitiendanube.com/stores/007/229/147/products/imagen_2026-05-29_220958380-a73d7ef9851f8b1a1c17801034028261-1024-1024.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "kunai---baggy",
+    "nombre": "Kunai - Baggy",
+    "cartNombre": "Kunai - Baggy",
+    "precio": 53700,
+    "categoria": "pantalon",
+    "imagenes": [
+      "https://dcdn-us.mitiendanube.com/stores/007/229/147/products/imagen_2026-05-29_220753463-fcdb852504f9532e1d17801032783567-1024-1024.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "f1-20---baggy-jean-bordado",
+    "nombre": "F1 2.0 - Baggy Jean Bordado",
+    "cartNombre": "F1 2.0 - Baggy Jean Bordado",
+    "precio": 59500,
+    "categoria": "pantalon",
+    "imagenes": [
+      "https://dcdn-us.mitiendanube.com/stores/007/229/147/products/imagen_2026-05-29_220534434-6af55a750ea2fedc1517801031390076-1024-1024.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "akira---baggy",
+    "nombre": "Akira - Baggy",
+    "cartNombre": "Akira - Baggy",
+    "precio": 50100,
+    "categoria": "pantalon",
+    "imagenes": [
+      "https://dcdn-us.mitiendanube.com/stores/007/229/147/products/imagen_2026-05-29_220345414-c673628995af410d4617801030300510-1024-1024.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "dree---jean-baggy",
+    "nombre": "Dree - Jean Baggy",
+    "cartNombre": "Dree - Jean Baggy",
+    "precio": 54500,
+    "categoria": "pantalon",
+    "imagenes": [
+      "https://dcdn-us.mitiendanube.com/stores/007/229/147/products/imagen_2026-05-29_220119982-5937dcb0d2c7113fd817801028848394-1024-1024.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "espiga---baggy-jean",
+    "nombre": "Espiga - Baggy Jean",
+    "cartNombre": "Espiga - Baggy Jean",
+    "precio": 50000,
+    "categoria": "pantalon",
+    "imagenes": [
+      "https://dcdn-us.mitiendanube.com/stores/007/229/147/products/imagen_2026-05-29_213947709-9049a0c5218afd53b817801015925285-1024-1024.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "snow---baggy-jean",
+    "nombre": "Snow - Baggy Jean",
+    "cartNombre": "Snow - Baggy Jean",
+    "precio": 50500,
+    "categoria": "pantalon",
+    "imagenes": [
+      "https://dcdn-us.mitiendanube.com/stores/007/229/147/products/imagen_2026-05-29_213753508-5f02427592164743a417801014785530-1024-1024.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "lit---baggy-jean",
+    "nombre": "Lit - Baggy Jean",
+    "cartNombre": "Lit - Baggy Jean",
+    "precio": 49800,
+    "categoria": "pantalon",
+    "imagenes": [
+      "https://dcdn-us.mitiendanube.com/stores/007/229/147/products/imagen_2026-05-29_213153696-4fa04032ac7650e98117801011183244-1024-1024.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "pocket---baggy-jean",
+    "nombre": "Pocket - Baggy Jean",
+    "cartNombre": "Pocket - Baggy Jean",
+    "precio": 52000,
+    "categoria": "pantalon",
+    "imagenes": [
+      "https://dcdn-us.mitiendanube.com/stores/007/229/147/products/imagen_2026-05-29_213004841-d7a921ac5f98c9d54317801010117880-1024-1024.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "venok---baggy-jean",
+    "nombre": "Venok - Baggy Jean",
+    "cartNombre": "Venok - Baggy Jean",
+    "precio": 53500,
+    "categoria": "pantalon",
+    "imagenes": [
+      "imagenes/venok-baggy-jean-adelante.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "max---baggy-bordado",
+    "nombre": "Max - Baggy Bordado",
+    "cartNombre": "Max - Baggy Bordado",
+    "precio": 57000,
+    "categoria": "pantalon",
+    "imagenes": [
+      "https://dcdn-us.mitiendanube.com/stores/007/229/147/products/imagen_2026-05-29_212458106-edd4ce9fc45dc6778c17801007036285-1024-1024.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "adoquin---baggy-jean",
+    "nombre": "Adoquin - Baggy Jean",
+    "cartNombre": "Adoquin - Baggy Jean",
+    "precio": 50000,
+    "categoria": "pantalon",
+    "imagenes": [
+      "imagenes/adoquin-baggy-jean-adelante.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "eternal-onix---baggy-jean",
+    "nombre": "Eternal Onix - Baggy Jean",
+    "cartNombre": "Eternal Onix - Baggy Jean",
+    "precio": 49200,
+    "categoria": "pantalon",
+    "imagenes": [
+      "imagenes/eternal-onix-baggy-jean-adelante.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "cruzato-onyx---baggy-jean",
+    "nombre": "Cruzato Onyx - Baggy Jean",
+    "cartNombre": "Cruzato Onyx - Baggy Jean",
+    "precio": 51200,
+    "categoria": "pantalon",
+    "imagenes": [
+      "imagenes/cruzato-onyx-baggy-jean-adelante.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "tyler---baggy-bordado",
+    "nombre": "Tyler - Baggy Bordado",
+    "cartNombre": "Tyler - Baggy Bordado",
+    "precio": 61600,
+    "categoria": "pantalon",
+    "imagenes": [
+      "imagenes/tyler-baggy-bordado-adelante.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "riven---baggy",
+    "nombre": "Riven - Baggy",
+    "cartNombre": "Riven - Baggy",
+    "precio": 52000,
+    "categoria": "pantalon",
+    "imagenes": [
+      "imagenes/riven-baggy-adelante.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "rengar---baggy",
+    "nombre": "Rengar - Baggy",
+    "cartNombre": "Rengar - Baggy",
+    "precio": 50500,
+    "categoria": "pantalon",
+    "imagenes": [
+      "imagenes/rengar-baggy-adelante.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "aracnido---baggy-bordado",
+    "nombre": "Aracnido - Baggy Bordado",
+    "cartNombre": "Aracnido - Baggy Bordado",
+    "precio": 58500,
+    "categoria": "pantalon",
+    "imagenes": [
+      "imagenes/aracnido-baggy-bordado-adelante.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "glow---baggy-jean",
+    "nombre": "Glow - Baggy Jean",
+    "cartNombre": "Glow - Baggy Jean",
+    "precio": 57000,
+    "categoria": "pantalon",
+    "imagenes": [
+      "imagenes/glow-baggy-jean-adelante.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "eros---baggy",
+    "nombre": "Eros - Baggy",
+    "cartNombre": "Eros - Baggy",
+    "precio": 45000,
+    "categoria": "pantalon",
+    "imagenes": [
+      "imagenes/eros-baggy-adelante.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "kind---baggy-jean",
+    "nombre": "Kind - Baggy Jean",
+    "cartNombre": "Kind - Baggy Jean",
+    "precio": 50500,
+    "categoria": "pantalon",
+    "imagenes": [
+      "imagenes/kind-baggy-jean-adelante.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "cranium---baggy-jean-bordado",
+    "nombre": "Cranium - Baggy Jean Bordado",
+    "cartNombre": "Cranium - Baggy Jean Bordado",
+    "precio": 57500,
+    "categoria": "pantalon",
+    "imagenes": [
+      "imagenes/cranium-baggy-jean-bordado-adelante.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "obsius---baggy-jean",
+    "nombre": "Obsius - Baggy Jean",
+    "cartNombre": "Obsius - Baggy Jean",
+    "precio": 51000,
+    "categoria": "pantalon",
+    "imagenes": [
+      "imagenes/obsius-baggy-jean-adelante.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "tom---baggy-bordado",
+    "nombre": "Tom - Baggy Bordado",
+    "cartNombre": "Tom - Baggy Bordado",
+    "precio": 54000,
+    "categoria": "pantalon",
+    "imagenes": [
+      "imagenes/tom-baggy-bordado-adelante.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "zac---baggy-jean",
+    "nombre": "Zac - Baggy Jean",
+    "cartNombre": "Zac - Baggy Jean",
+    "precio": 49500,
+    "categoria": "pantalon",
+    "imagenes": [
+      "imagenes/zac-baggy-jean-adelante.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "lited---baggy-jean",
+    "nombre": "Lited - Baggy Jean",
+    "cartNombre": "Lited - Baggy Jean",
+    "precio": 49800,
+    "categoria": "pantalon",
+    "imagenes": [
+      "imagenes/lited-baggy-jean-adelante.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "vinni---baggy-jean-con-strass",
+    "nombre": "Vinni - Baggy Jean Con Strass",
+    "cartNombre": "Vinni - Baggy Jean Con Strass",
+    "precio": 54500,
+    "categoria": "pantalon",
+    "imagenes": [
+      "imagenes/vinni-baggy-jean-con-strass-adelante.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "spy---baggy-jean-con-strass",
+    "nombre": "Spy - Baggy Jean Con Strass",
+    "cartNombre": "Spy - Baggy Jean Con Strass",
+    "precio": 54000,
+    "categoria": "pantalon",
+    "imagenes": [
+      "imagenes/spy-baggy-jean-con-strass-adelante.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "shiny---baggy-jean-con-strass--4100000",
+    "nombre": "Shiny - Baggy Jean Con Strass $ 41.000,00",
+    "cartNombre": "Shiny - Baggy Jean Con Strass $ 41.000,00",
+    "precio": 56100,
+    "categoria": "pantalon",
+    "imagenes": [
+      "imagenes/shiny-baggy-jean-con-strass-41-00000-adelante.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "red---baggy-jean",
+    "nombre": "Red - Baggy Jean",
+    "cartNombre": "Red - Baggy Jean",
+    "precio": 56000,
+    "categoria": "pantalon",
+    "imagenes": [
+      "imagenes/red-baggy-jean-adelante.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "arcangel---baggy",
+    "nombre": "Arcangel - Baggy",
+    "cartNombre": "Arcangel - Baggy",
+    "precio": 50300,
+    "categoria": "pantalon",
+    "imagenes": [
+      "imagenes/arcangel-baggy-adelante.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "invi---baggy-con-strass",
+    "nombre": "Invi - Baggy Con Strass",
+    "cartNombre": "Invi - Baggy Con Strass",
+    "precio": 52500,
+    "categoria": "pantalon",
+    "imagenes": [
+      "imagenes/invi-baggy-con-strass-adelante.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "kasix---baggy",
+    "nombre": "Kasix - Baggy",
+    "cartNombre": "Kasix - Baggy",
+    "precio": 53250,
+    "categoria": "pantalon",
+    "imagenes": [
+      "imagenes/kasix-baggy-adelante.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "eternal-gris---baggy",
+    "nombre": "Eternal Gris - Baggy",
+    "cartNombre": "Eternal Gris - Baggy",
+    "precio": 45000,
+    "categoria": "pantalon",
+    "imagenes": [
+      "imagenes/eternal-gris-baggy-adelante.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "fizz-baggy",
+    "nombre": "Fizz-Baggy",
+    "cartNombre": "Fizz-Baggy",
+    "precio": 55500,
+    "categoria": "pantalon",
+    "imagenes": [
+      "imagenes/fizz-baggy-adelante.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "eros-black---baggy",
+    "nombre": "Eros Black - Baggy",
+    "cartNombre": "Eros Black - Baggy",
+    "precio": 45000,
+    "categoria": "pantalon",
+    "imagenes": [
+      "imagenes/eros-black-baggy-adelante.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "kain-oxido---jean-baggy",
+    "nombre": "Kain Oxido - Jean Baggy",
+    "cartNombre": "Kain Oxido - Jean Baggy",
+    "precio": 37500,
+    "categoria": "pantalon",
+    "imagenes": [
+      "imagenes/kain-oxido-jean-baggy-adelante.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "rei---baggy",
+    "nombre": "Rei - Baggy",
+    "cartNombre": "Rei - Baggy",
+    "precio": 54000,
+    "categoria": "pantalon",
+    "imagenes": [
+      "imagenes/rei-baggy-adelante.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "balance---remera-oversize",
+    "nombre": "Balance - Remera Oversize",
+    "cartNombre": "Balance - Remera Oversize",
+    "precio": 25500,
+    "categoria": "remera",
+    "imagenes": [
+      "imagenes/balance-remera-oversize1-adelante.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "france---remera-oversize",
+    "nombre": "France - Remera Oversize",
+    "cartNombre": "France - Remera Oversize",
+    "precio": 25500,
+    "categoria": "remera",
+    "imagenes": [
+      "imagenes/france-remera-oversize-adelante.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "gothic---remera-oversize",
+    "nombre": "Gothic - Remera Oversize",
+    "cartNombre": "Gothic - Remera Oversize",
+    "precio": 21000,
+    "categoria": "remera",
+    "imagenes": [
+      "imagenes/gothic-remera-oversize-adelante.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "pulp---remera-oversize",
+    "nombre": "Pulp - Remera Oversize",
+    "cartNombre": "Pulp - Remera Oversize",
+    "precio": 21000,
+    "categoria": "remera",
+    "imagenes": [
+      "imagenes/pulp-remera-oversize-adelante.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "saint---remera-oversize",
+    "nombre": "Saint - Remera Oversize",
+    "cartNombre": "Saint - Remera Oversize",
+    "precio": 21000,
+    "categoria": "remera",
+    "imagenes": [
+      "imagenes/saint-remera-oversize-adelante.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "logo-b---remera-oversize",
+    "nombre": "Logo B - Remera Oversize",
+    "cartNombre": "Logo B - Remera Oversize",
+    "precio": 21000,
+    "categoria": "remera",
+    "imagenes": [
+      "imagenes/logo-b-remera-oversize-adelante.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "colt---remera-oversize",
+    "nombre": "Colt - Remera Oversize",
+    "cartNombre": "Colt - Remera Oversize",
+    "precio": 22500,
+    "categoria": "remera",
+    "imagenes": [
+      "imagenes/colt-remera-oversize-adelante.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "nuclear---remera-boxy",
+    "nombre": "Nuclear - Remera Boxy",
+    "cartNombre": "Nuclear - Remera Boxy",
+    "precio": 21000,
+    "categoria": "remera",
+    "imagenes": [
+      "imagenes/nuclear-remera-boxy-adelante.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "champions---remera-baby-tee",
+    "nombre": "Champions - Remera Baby Tee",
+    "cartNombre": "Champions - Remera Baby Tee",
+    "precio": 29000,
+    "categoria": "remera",
+    "imagenes": [
+      "imagenes/champions-remera-baby-tee1-adelante.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "basic---remera-oversize-liso",
+    "nombre": "Basic - Remera Oversize Liso",
+    "cartNombre": "Basic - Remera Oversize Liso",
+    "precio": 29000,
+    "categoria": "remera",
+    "imagenes": [
+      "imagenes/basic-remera-oversize-liso1-adelante.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "college---remera-oversize",
+    "nombre": "College - Remera Oversize",
+    "cartNombre": "College - Remera Oversize",
+    "precio": 29500,
+    "categoria": "remera",
+    "imagenes": [
+      "imagenes/college-remera-oversize-adelante.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "disaster---remera-oversize",
+    "nombre": "Disaster - Remera Oversize",
+    "cartNombre": "Disaster - Remera Oversize",
+    "precio": 29500,
+    "categoria": "remera",
+    "imagenes": [
+      "imagenes/disaster-remera-oversize-adelante.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  },
+  {
+    "id": "aura---remera-oversize-bordada",
+    "nombre": "Aura - Remera Oversize Bordada",
+    "cartNombre": "Aura - Remera Oversize Bordada",
+    "precio": 31000,
+    "categoria": "remera",
+    "imagenes": [
+      "imagenes/aura-remera-oversize-bordada2-adelante.webp"
+    ],
+    "stock": "disponible",
+    "descripcion": ""
+  }
+]

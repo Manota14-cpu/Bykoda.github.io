@@ -434,30 +434,6 @@ function initOrdenador() {
   select.addEventListener('change', () => ordenarProductos(select.value));
 }
 
-function initProductoLinks() {
-  document.querySelectorAll('.producto[data-id]').forEach(producto => {
-    const id = producto.dataset.id;
-    if (!id) return;
-
-    const navegar = () => {
-      window.location.href = `producto.html?id=${encodeURIComponent(id)}`;
-    };
-
-    producto.querySelectorAll('.img-flip, .img-simple, h3').forEach(el => {
-      el.style.cursor = 'pointer';
-      el.addEventListener('click', (event) => {
-        const target = event.target;
-        if (target.closest('.btn-fav') || target.closest('button')) return;
-        navegar();
-      });
-    });
-
-    producto.querySelectorAll('.btn-fav').forEach(btn => {
-      btn.addEventListener('click', e => e.stopPropagation());
-    });
-  });
-}
-
 /* ─── Filtrado + Búsqueda + Contador ───────────────────────────── */
 /* BUG CORREGIDO: catMap ahora coincide con los textos reales de los botones */
 const CATEGORIA_MAP = {
@@ -787,6 +763,5 @@ document.addEventListener('DOMContentLoaded', () => {
   initTalles();
   initFavoritos();
   initOrdenador();
-  initProductoLinks();
   renderVistosRecientemente();
 });
